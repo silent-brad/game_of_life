@@ -1,0 +1,6 @@
+[submodule "gol_ml"]
+	path = gol_ml
+	url = https://github.com/silent-brad/gol_ml
+[submodule "gol_ml_2"]
+	path = gol_ml_2
+	url = https://github.com/silent-brad/gol_ml_2
