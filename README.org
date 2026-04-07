@@ -2,6 +2,6 @@
 #+DATE: 2026-04-07
 #+AUTHOR: Brad White
 
-- [[file:./gol_ml][OCaml TUI]]
-- [[file:./gol_ml_2][OCaml GUI]]
-- [[file:./gol-nim][Nim GUI]]
+- [[https://github.com/silent-brad/gol_ml][OCaml TUI]]
+- [[https://github.com/silent-brad/gol_ml_2][OCaml GUI]]
+- [[https://github.com/silent-brad/gol-nim][Nim GUI]]
