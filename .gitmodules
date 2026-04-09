@@ -4,3 +4,6 @@
 [submodule "gol_ml_2"]
 	path = gol_ml_2
 	url = https://github.com/silent-brad/gol_ml_2
+[submodule "gol_nim"]
+	path = gol_nim
+	url = https://github.com/silent-brad/gol_nim
