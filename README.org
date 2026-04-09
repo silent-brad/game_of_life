@@ -4,5 +4,7 @@
 
 - [[https://github.com/silent-brad/gol_ml][OCaml TUI]]
 - [[https://github.com/silent-brad/gol_ml_2][OCaml GUI]]
-- [[https://github.com/silent-brad/gol-nim][Nim GUI]]
-- [[https://github.com/silent-brad/gol-esp32-rs][Rust ESP32-S3 Touchscreen Display]]
+- [[https://github.com/silent-brad/gol_nim][Nim GUI]]
+- [[https://github.com/silent-brad/gol_jv_ds][Java Spring/Datastar web app]]
+- [[https://github.com/silent-brad/gol_esp32_rs][Rust ESP32-S3 Touchscreen Display]]
+  #- [[https://github.com/silent-brad/gol_esp32_nim][Nim ESP32-S3 Touchscreen Display]]
