@@ -5,3 +5,4 @@
 - [[https://github.com/silent-brad/gol_ml][OCaml TUI]]
 - [[https://github.com/silent-brad/gol_ml_2][OCaml GUI]]
 - [[https://github.com/silent-brad/gol-nim][Nim GUI]]
+- [[https://github.com/silent-brad/gol-esp32-rs][Rust ESP32-S3 Touchscreen Display]]

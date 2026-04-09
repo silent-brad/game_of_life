@@ -7,3 +7,6 @@
 [submodule "gol_nim"]
 	path = gol_nim
 	url = https://github.com/silent-brad/gol_nim
+[submodule "gol_esp32_rs"]
+	path = gol_esp32_rs
+	url = https://github.com/silent-brad/gol_esp32_rs
