@@ -13,3 +13,6 @@
 [submodule "gol_jv_ds"]
 	path = gol_jv_ds
 	url = https://github.com/silent-brad/gol_jv_ds
+[submodule "gol_esp32_nim"]
+	path = gol_esp32_nim
+	url = https://github.com/silent-brad/gol_esp32_nim
